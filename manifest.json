@@ -1,0 +1,67 @@
+{
+  "manifest_version": "1.0",
+  "project": {
+    "name": "AetherPolicy",
+    "provisional": true,
+    "full_title": "AetherPolicy: Decentralized Policy Lifecycle and Enforcement for Autonomous Agent Systems",
+    "subtitle": "Policy Definition, Evaluation, Enforcement, Revocation, and Conflict Resolution in Multi-Agent Software Ecosystems",
+    "version": "0.1.0",
+    "type": "architectural_hypothesis",
+    "status": "under_investigation",
+    "release_date": "2026-11-11",
+    "language": "en",
+    "position": "ninth project of the Aether family (candidate)",
+    "record_id": "AETHERPOLICY-01",
+    "doi": "10.5281/zenodo.24160047",
+    "doi_url": "https://doi.org/10.5281/zenodo.24160047"
+  },
+  "author": {
+    "name": "Samir Baladi",
+    "role": "Interdisciplinary AI Researcher",
+    "affiliation": "Ronin Institute / Rite of Renaissance",
+    "email": "gitdeeper@gmail.com",
+    "orcid": "0009-0003-8903-0029"
+  },
+  "methodology": {
+    "approach": "falsification-first",
+    "phases": 7,
+    "current_phase": 1,
+    "no_implementation_before_independence_decision": true
+  },
+  "scope": {
+    "central_question": "How can policies be transformed from declarative rules into evaluable, enforceable, and revocable operational constraints across decentralized autonomous agent systems?",
+    "functions": [
+      "Policy Definition",
+      "Policy Evaluation",
+      "Policy Enforcement",
+      "Policy Revocation",
+      "Policy Conflict Resolution"
+    ]
+  },
+  "implementation": {
+    "status": "not_started",
+    "reason": "Phase 4 decision is undetermined; no implementation before a positive decision"
+  },
+  "assessment": {
+    "independence_decided": true,
+    "classification": "E_undetermined",
+    "most_fragile_condition": "P-F3",
+    "no_implementation_before_positive_decision": true
+  },
+  "links": {
+    "related_aethergovern": "https://doi.org/10.5281/zenodo.24054524",
+    "related_aetheridentity": "https://doi.org/10.5281/zenodo.24102739",
+    "related_aetherruntime": "https://doi.org/10.5281/zenodo.24078477",
+    "zenodo": "https://doi.org/10.5281/zenodo.24160047",
+    "github": "https://github.com/gitdeeper15/aetherpolicy",
+    "gitlab": "https://gitlab.com/gitdeeper15/aetherpolicy",
+    "codeberg": "https://codeberg.org/gitdeeper15/aetherpolicy",
+    "bitbucket": "https://bitbucket.org/gitdeeper15/aetherpolicy",
+    "website": "https://aetherpolic-y.netlify.app",
+    "figshare": "https://doi.org/10.6084/m9.figshare.35009833"
+  },
+  "license": {
+    "documentation": "CC-BY-4.0",
+    "code": "MIT (future)"
+  }
+}

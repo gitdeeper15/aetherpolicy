@@ -1,0 +1,37 @@
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Temporary
+*.tmp
+*.bak
+*~
+
+# Local environment
+.env
+.env.*
+
+# AetherPolicy-specific
+# (no generated files yet; no implementation in v0.1.0)

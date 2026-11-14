@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: generic
+title: "AetherPolicy: Decentralized Policy Lifecycle and Enforcement for Autonomous Agent Systems"
+version: 0.1.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24160047
+    description: "Zenodo DOI"
+  - type: doi
+    value: 10.6084/m9.figshare.35009833
+    description: "Figshare DOI"
+doi: 10.5281/zenodo.24160047
+url: https://doi.org/10.5281/zenodo.24160047
+date-released: 2026-11-11
+license: CC-BY-4.0
+license-url: https://creativecommons.org/licenses/by/4.0/
+abstract: >
+  AetherPolicy is a candidate ninth project of the Aether family. It
+  investigates whether a decentralized policy lifecycle gap genuinely
+  exists between governance authority (AetherGovern) and runtime
+  monitoring (AetherRuntime). This document states a hypothesis under
+  investigation. The project is paused at Phase 4 (Independence Decision),
+  and the decision is (E) undetermined: the argument is insufficient to
+  accept AetherPolicy as an independent dimension and insufficient to
+  reject it. No implementation, test, or experiment is reported.
+keywords:
+  - AetherPolicy
+  - policy lifecycle
+  - policy evaluation
+  - policy enforcement
+  - policy revocation
+  - policy conflict resolution
+  - decentralized policy
+  - Aether family
+authors:
+  - family-names: Baladi
+    given-names: Samir
+    orcid: https://orcid.org/0009-0003-8903-0029
+    email: gitdeeper@gmail.com
+    affiliation: "Ronin Institute / Rite of Renaissance"

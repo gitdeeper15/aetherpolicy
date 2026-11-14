@@ -1,0 +1,48 @@
+{
+  "project": "AetherPolicy",
+  "version": "0.1.0",
+  "record_id": "AETHERPOLICY-01",
+  "date": "2026-11-11",
+  "type": "architectural_hypothesis",
+  "status": "paused_at_phase_4",
+  "hypothesis": {
+    "central_question": "How can policies be transformed from declarative rules into evaluable, enforceable, and revocable operational constraints across decentralized autonomous agent systems?",
+    "architectural_hypothesis": "A potentially independent architectural gap may exist between governance authority and runtime monitoring: the operational management of policies as evaluable, enforceable, and revocable constraints across decentralized autonomous agents.",
+    "status": "undetermined"
+  },
+  "decision": {
+    "phase": 4,
+    "classification": "E_undetermined",
+    "reason": "The argument is insufficient to accept independence and insufficient to reject it. A test is needed.",
+    "most_fragile_condition": "P-F3 (boundary with governance)"
+  },
+  "formal_artifacts": {
+    "functions": 5,
+    "boundaries": 4,
+    "falsification_conditions": 5,
+    "open_questions": 10,
+    "phases": 7,
+    "current_phase": 4
+  },
+  "implementation": {
+    "status": "not_started",
+    "reason": "Phase 4 decision is undetermined; no implementation before a positive decision"
+  },
+  "deployment": {
+    "status": "not_evaluated"
+  },
+  "peer_review": {
+    "status": "not_peer_reviewed",
+    "venue": "to be assigned"
+  },
+  "epistemic_status": {
+    "undetermined_is_not_a_failure": true,
+    "stopping_at_phase_4_is_legitimate": true,
+    "hypothesis_is_not_a_result": true
+  },
+  "publication": {
+    "zenodo": "10.5281/zenodo.24160047",
+    "figshare": "10.6084/m9.figshare.35009833",
+    "osf": "to be assigned"
+  }
+}

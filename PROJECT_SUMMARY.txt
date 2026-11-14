@@ -1,0 +1,128 @@
+═══════════════════════════════════════════════════════════════════════════
+  AetherPolicy v0.1.0 — Project Summary
+═══════════════════════════════════════════════════════════════════════════
+
+  Decentralized Policy Lifecycle and Enforcement for Autonomous Agent
+  Systems
+
+  Version        : 0.1.0 (Architectural Hypothesis)
+  Date           : 2026-11-11
+  Record ID      : AETHERPOLICY-01
+  Position       : Ninth project of the Aether family (candidate)
+  Author         : Samir Baladi (gitdeeper@gmail.com)
+  ORCID          : 0009-0003-8903-0029
+  License        : CC-BY-4.0 (this document) + MIT (code, future)
+
+───────────────────────────────────────────────────────────────────────────
+  STATUS
+───────────────────────────────────────────────────────────────────────────
+
+  Architectural Hypothesis. Not a committed project.
+  Paused at Phase 4 (Independence Decision).
+  Decision: (E) undetermined.
+
+  No implementation, specification, test, or experiment is reported.
+
+───────────────────────────────────────────────────────────────────────────
+  CENTRAL QUESTION
+───────────────────────────────────────────────────────────────────────────
+
+  How can policies be transformed from declarative rules into evaluable,
+  enforceable, and revocable operational constraints across decentralized
+  autonomous agent systems?
+
+───────────────────────────────────────────────────────────────────────────
+  FIVE FUNCTIONS (INITIAL SCOPE)
+───────────────────────────────────────────────────────────────────────────
+
+  Fn1 — Policy Definition      How is a policy expressed as a rule that
+                              can be evaluated?
+  Fn2 — Policy Evaluation      How is a policy determined to apply to an
+                              action and its context?
+  Fn3 — Policy Enforcement     How is a disallowed action prevented or
+                              restricted?
+  Fn4 — Policy Revocation      How is an authorization withdrawn during
+                              operation?
+  Fn5 — Policy Conflict        How are conflicting policies between agents
+       Resolution             or environments resolved?
+
+───────────────────────────────────────────────────────────────────────────
+  ARCHITECTURAL HYPOTHESIS
+───────────────────────────────────────────────────────────────────────────
+
+  A potentially independent architectural gap may exist between governance
+  authority and runtime monitoring: the operational management of policies
+  as evaluable, enforceable, and revocable constraints across decentralized
+  autonomous agents.
+
+  This hypothesis is falsifiable.
+
+───────────────────────────────────────────────────────────────────────────
+  FALSIFICATION CONDITIONS (P-F1 TO P-F5)
+───────────────────────────────────────────────────────────────────────────
+
+  P-F1  Non-redundancy            Not falsified (with reservation)
+  P-F2  Orthogonality             Not falsified (with reservation)
+  P-F3  Boundary with governance  Not falsified (with reservation) -- MOST FRAGILE
+  P-F4  Decentralizability        Not falsified (with reservation)
+  P-F5  Observable benefit        Untested
+
+───────────────────────────────────────────────────────────────────────────
+  INDEPENDENCE DECISION
+───────────────────────────────────────────────────────────────────────────
+
+  Classification : (E) undetermined
+
+  The argument is insufficient to accept AetherPolicy as an independent
+  architectural dimension, and insufficient to reject it. A test is needed.
+
+  The project is paused at Phase 4. Phase 5 (Specification) is not started.
+
+───────────────────────────────────────────────────────────────────────────
+  WHAT THIS PROJECT DOES NOT CLAIM
+───────────────────────────────────────────────────────────────────────────
+
+  - That AetherPolicy is an independent architectural dimension.
+  - That the five functions are complete.
+  - That the boundaries with AetherGovern, AetherIdentity, and AetherRuntime
+    are sufficient.
+  - That the gap is genuine.
+  - That implementation should begin.
+
+───────────────────────────────────────────────────────────────────────────
+  PHASE STATUS
+───────────────────────────────────────────────────────────────────────────
+
+  1  Architectural Hypothesis       Complete   (ARCHITECTURAL_HYPOTHESIS.md)
+  2  Hypothesis Review              Not started
+  3  Falsification Conditions       Complete   (FALSIFICATION.md)
+  4  Independence Decision          Complete   (DECISION.md) -- undetermined
+  5  Specification                  Not started
+  6  Implementation                 Not started
+  7  Evaluation                     Not started
+
+───────────────────────────────────────────────────────────────────────────
+  RELATION TO AETHERIDENTITY
+───────────────────────────────────────────────────────────────────────────
+
+  AetherPolicy is the NINTH project. It does NOT replace AetherIdentity
+  (the eighth project). AetherIdentity remains the eighth project, with its
+  architectural independence still unresolved.
+
+───────────────────────────────────────────────────────────────────────────
+  LINKS (TO BE ASSIGNED)
+───────────────────────────────────────────────────────────────────────────
+
+  GitHub    : https://github.com/gitdeeper15/aetherpolicy
+  GitLab    : https://gitlab.com/gitdeeper15/aetherpolicy
+  Codeberg  : https://codeberg.org/gitdeeper15/aetherpolicy
+  Bitbucket : https://bitbucket.org/gitdeeper15/aetherpolicy
+  Website   : https://aetherpolic-y.netlify.app
+  ORCID     : https://orcid.org/0009-0003-8903-0029
+  Zenodo    : https://doi.org/10.5281/zenodo.24160047
+  Figshare  : https://doi.org/10.6084/m9.figshare.35009833
+  OSF       : (to be assigned)
+
+───────────────────────────────────────────────────────────────────────────
+  "AetherPolicy is a candidate, not a result."
+═══════════════════════════════════════════════════════════════════════════

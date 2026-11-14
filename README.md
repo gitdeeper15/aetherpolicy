@@ -242,16 +242,19 @@ Related Aether Projects
 
 Figures
 
-# Figure Description
-1 docs/figures/Fig1_Nine_Dimensions.png The nine functional dimensions of the Aether family
-2 docs/figures/Fig2_Policy_Lifecycle.png The policy lifecycle in AetherPolicy
-3 docs/figures/Fig3_Five_Functions.png The five functions of AetherPolicy (Fn1–Fn5)
-4 docs/figures/Fig4_Boundaries.png AetherPolicy and its boundaries
-5 docs/figures/Fig5_Falsification_Procedure.png The falsification procedure (P-F1 to P-F5)
-6 docs/figures/Fig6_Phase_Status.png Phase status (paused at Phase 4)
-7 docs/figures/Fig7_Decision_Outcomes.png The five Phase 4 outcomes and the evidence each needs
-8 docs/figures/Fig8_Overlap_Matrix.png Overlap of the five functions with existing records
-9 docs/figures/Fig9_Evaluation_Design.png Scenarios mapped to metrics and failure conditions
+## Figures
+
+| # | Figure | Description |
+|---|--------|-------------|
+| 1 | ![Fig1](docs/figures/Fig1_Nine_Dimensions.png) | The nine functional dimensions of the Aether family |
+| 2 | ![Fig2](docs/figures/Fig2_Policy_Lifecycle.png) | The policy lifecycle in AetherPolicy |
+| 3 | ![Fig3](docs/figures/Fig3_Five_Functions.png) | The five functions of AetherPolicy (Fn1–Fn5) |
+| 4 | ![Fig4](docs/figures/Fig4_Boundaries.png) | AetherPolicy and its boundaries |
+| 5 | ![Fig5](docs/figures/Fig5_Falsification_Procedure.png) | The falsification procedure (P-F1 to P-F5) |
+| 6 | ![Fig6](docs/figures/Fig6_Phase_Status.png) | Phase status (paused at Phase 4) |
+| 7 | ![Fig7](docs/figures/Fig7_Decision_Outcomes.png) | The five Phase 4 outcomes and the evidence each needs |
+| 8 | ![Fig8](docs/figures/Fig8_Overlap_Matrix.png) | Overlap of the five functions with existing records |
+| 9 | ![Fig9](docs/figures/Fig9_Evaluation_Design.png) | Scenarios mapped to metrics and failure conditions |
 
 Figures 1–6 are redrawn from the draft. Figures 7–9 are supplementary additions.
 
